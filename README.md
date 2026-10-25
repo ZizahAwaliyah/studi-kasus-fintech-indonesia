@@ -23,8 +23,8 @@ Laporan analisis komparatif tentang bagaimana *Financial Technology* (FinTech) m
 
 Laporan menganalisis dua studi kasus yang dipilih untuk mewakili dua pendekatan berbeda dalam mendisrupsi lanskap keuangan Indonesia:
 
-- **GoPay** — pendekatan *bottom-up* dari perusahaan teknologi (GoTo Group) yang memasuki sektor keuangan melalui ekosistem *super-app*
-- **Blu by BCA** — pendekatan *top-down* dari institusi perbankan mapan (PT Bank Central Asia) yang bertransformasi menuju *fully digital banking*
+- **GoPay** : pendekatan *bottom-up* dari perusahaan teknologi (GoTo Group) yang memasuki sektor keuangan melalui ekosistem *super-app*
+- **Blu by BCA** : pendekatan *top-down* dari institusi perbankan mapan (PT Bank Central Asia) yang bertransformasi menuju *fully digital banking*
 
 Analisis mencakup lima dimensi utama:
 1. Bentuk disrupsi dan inovasi
@@ -89,10 +89,10 @@ Laporan disusun dalam **10 bab** dengan struktur sebagai berikut:
 
 Transparansi atas batasan metodologis:
 
-1. **Sampel studi kasus terbatas pada dua perusahaan** — belum merepresentasikan seluruh lanskap FinTech Indonesia yang mencakup kategori P2P Lending, InsurTech, WealthTech, dsb.
+1. **Sampel studi kasus terbatas pada dua perusahaan** belum merepresentasikan seluruh lanskap FinTech Indonesia yang mencakup kategori P2P Lending, InsurTech, WealthTech, dsb.
 2. **Data bersifat sekunder** dari sumber publik (laporan OJK, Bank Indonesia, publikasi industri). Tidak ada riset primer berupa wawancara atau survei.
 3. **Beberapa angka proyeksi** (CBDC, *open banking*, konsolidasi industri) bersifat spekulatif berdasarkan tren saat laporan disusun.
-4. **Daftar pustaka relatif ringkas** — 8 sumber dengan beberapa referensi umum (OJK, Bank Indonesia tanpa URL spesifik). Pengembangan ke depan bisa memperkuat dengan sumber primer dan data terbaru.
+4. **Daftar pustaka relatif ringkas** : 8 sumber dengan beberapa referensi umum (OJK, Bank Indonesia tanpa URL spesifik). Pengembangan ke depan bisa memperkuat dengan sumber primer dan data terbaru.
 5. **Analisis bersifat deskriptif-komparatif**, bukan kuantitatif. Metode seperti analisis kompetitif Porter atau *SWOT* formal tidak digunakan secara eksplisit.
 
 ---
@@ -101,10 +101,10 @@ Transparansi atas batasan metodologis:
 
 Proyek ini memberikan pembelajaran bagi penulis dalam hal:
 
-- **Pemetaan ekosistem industri** — memahami pemain, regulator, dan dinamika pasar FinTech Indonesia
-- **Berpikir multi-stakeholder** — menilai dampak kebijakan/inovasi terhadap pihak yang berbeda-beda (nasabah, UMKM, bank, regulator)
-- **Analisis komparatif** — membandingkan dua pendekatan bisnis yang berbeda dengan kerangka yang konsisten
-- **Pemahaman regulasi** — memetakan kerangka hukum perbankan digital Indonesia
+- **Pemetaan ekosistem industri** = memahami pemain, regulator, dan dinamika pasar FinTech Indonesia
+- **Berpikir multi-stakeholder** = menilai dampak kebijakan/inovasi terhadap pihak yang berbeda-beda (nasabah, UMKM, bank, regulator)
+- **Analisis komparatif** = membandingkan dua pendekatan bisnis yang berbeda dengan kerangka yang konsisten
+- **Pemahaman regulasi** = memetakan kerangka hukum perbankan digital Indonesia
 
 Kompetensi ini relevan untuk peran seperti *Business Intelligence Analyst*, *Business Strategy*, dan *Product Analyst* di sektor keuangan digital.
 
