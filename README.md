@@ -2,7 +2,7 @@
 
 Laporan analisis komparatif tentang bagaimana *Financial Technology* (FinTech) mendisrupsi sektor keuangan Indonesia, dengan dua studi kasus utama: **GoPay** sebagai representasi *digital wallet* super-app, dan **Blu by BCA** sebagai representasi *fully digital banking* dari institusi perbankan mapan.
 
-> Proyek ini adalah tugas akademik dalam bentuk *comparative case study paper* — bukan riset primer. Nilai utamanya terletak pada sintesis informasi publik dan penerapan kerangka analisis strategis (bentuk disrupsi, model bisnis, flywheel effect, stakeholder impact, regulasi) terhadap dua pelaku FinTech yang mewakili pendekatan berbeda.
+> Proyek ini adalah tugas akademik dalam bentuk *comparative case study paper*, bukan riset primer. Nilai utamanya terletak pada sintesis informasi publik dan penerapan kerangka analisis strategis (bentuk disrupsi, model bisnis, flywheel effect, stakeholder impact, regulasi) terhadap dua pelaku FinTech yang mewakili pendekatan berbeda.
 
 ---
 
